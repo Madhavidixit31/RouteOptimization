@@ -1,0 +1,381 @@
+from_city,to_city,distance_miles,duration_minutes,weather,adjusted_duration_minutes
+"Harrisburg, PA","Nashville, TN",719.56,640.18,Partly cloudy,640.18
+"Harrisburg, PA","Salt Lake City, UT",2039.82,1796.37,Partly cloudy,1796.37
+"Harrisburg, PA","Denver, CO",1628.21,1438.48,Patchy light rain with thunder,1582.3280000000002
+"Harrisburg, PA","New York City, NY",170.44,170.4,Sunny,170.4
+"Harrisburg, PA","Cincinnati, OH",471.2,437.0,Sunny,437.0
+"Harrisburg, PA","Seattle, WA",2719.68,2380.97,Light rain,2619.067
+"Harrisburg, PA","Orlando, FL",957.41,837.62,Overcast,837.62
+"Harrisburg, PA","Washington, DC",119.67,132.28,Partly cloudy,132.28
+"Harrisburg, PA","Detroit, MI",482.06,440.2,Sunny,440.2
+"Harrisburg, PA","Houston, TX",1462.25,1280.87,Overcast,1280.87
+"Harrisburg, PA","Miami, FL",1168.03,1015.48,Overcast,1015.48
+"Harrisburg, PA","Baltimore, MD",79.51,80.75,Cloudy,80.75
+"Harrisburg, PA","Pittsburgh, PA",203.34,196.95,Sunny,196.95
+"Harrisburg, PA","Las Vegas, NV",2374.07,2077.93,Sunny,2077.93
+"Harrisburg, PA","Chicago, IL",657.96,597.7,Sunny,597.7
+"Harrisburg, PA","Boston, MA",383.46,369.08,Clear,369.08
+"Harrisburg, PA","Boise, ID",2335.11,2042.52,Overcast,2042.52
+"Harrisburg, PA","Portland, ME",482.06,453.98,Clear,453.98
+"Harrisburg, PA","Portland, OR",2761.59,2423.82,Partly cloudy,2423.82
+"Nashville, TN","Harrisburg, PA",719.8,637.63,Partly cloudy,637.63
+"Nashville, TN","Salt Lake City, UT",1631.31,1430.13,Partly cloudy,1430.13
+"Nashville, TN","Denver, CO",1159.89,1006.95,Patchy light rain with thunder,1107.6450000000002
+"Nashville, TN","New York City, NY",885.79,796.42,Sunny,796.42
+"Nashville, TN","Cincinnati, OH",272.47,244.87,Sunny,244.87
+"Nashville, TN","Seattle, WA",2390.77,2103.28,Light rain,2313.6080000000006
+"Nashville, TN","Orlando, FL",685.88,600.38,Overcast,600.38
+"Nashville, TN","Washington, DC",665.83,595.63,Partly cloudy,595.63
+"Nashville, TN","Detroit, MI",533.77,474.47,Sunny,474.47
+"Nashville, TN","Houston, TX",778.9,711.37,Overcast,711.37
+"Nashville, TN","Miami, FL",910.46,792.52,Overcast,792.52
+"Nashville, TN","Baltimore, MD",703.47,629.28,Cloudy,629.28
+"Nashville, TN","Pittsburgh, PA",560.35,503.33,Sunny,503.33
+"Nashville, TN","Las Vegas, NV",1793.16,1544.55,Sunny,1544.55
+"Nashville, TN","Chicago, IL",471.35,421.62,Sunny,421.62
+"Nashville, TN","Boston, MA",1098.81,995.1,Clear,995.1
+"Nashville, TN","Boise, ID",1926.6,1676.27,Overcast,1676.27
+"Nashville, TN","Portland, ME",1197.41,1080.0,Clear,1080.0
+"Nashville, TN","Portland, OR",2353.08,2057.57,Partly cloudy,2057.57
+"Salt Lake City, UT","Harrisburg, PA",2041.82,1792.5,Partly cloudy,1792.5
+"Salt Lake City, UT","Nashville, TN",1630.33,1426.47,Partly cloudy,1426.47
+"Salt Lake City, UT","Denver, CO",521.55,472.18,Patchy light rain with thunder,519.398
+"Salt Lake City, UT","New York City, NY",2173.85,1922.93,Sunny,1922.93
+"Salt Lake City, UT","Cincinnati, OH",1633.94,1425.12,Sunny,1425.12
+"Salt Lake City, UT","Seattle, WA",840.17,739.02,Light rain,812.922
+"Salt Lake City, UT","Orlando, FL",2313.56,2016.67,Overcast,2016.67
+"Salt Lake City, UT","Washington, DC",2080.13,1839.65,Partly cloudy,1839.65
+"Salt Lake City, UT","Detroit, MI",1664.34,1447.62,Sunny,1447.62
+"Salt Lake City, UT","Houston, TX",1477.59,1341.53,Overcast,1341.53
+"Salt Lake City, UT","Miami, FL",2538.14,2208.82,Overcast,2208.82
+"Salt Lake City, UT","Baltimore, MD",2086.61,1834.23,Cloudy,1834.23
+"Salt Lake City, UT","Pittsburgh, PA",1844.8,1611.42,Sunny,1611.42
+"Salt Lake City, UT","Las Vegas, NV",421.73,352.67,Sunny,352.67
+"Salt Lake City, UT","Chicago, IL",1399.48,1215.83,Sunny,1215.83
+"Salt Lake City, UT","Boston, MA",2367.14,2077.37,Clear,2077.37
+"Salt Lake City, UT","Boise, ID",339.7,294.35,Overcast,294.35
+"Salt Lake City, UT","Portland, ME",2465.74,2162.27,Clear,2162.27
+"Salt Lake City, UT","Portland, OR",766.19,675.65,Partly cloudy,675.65
+"Denver, CO","Harrisburg, PA",1628.3,1434.13,Partly cloudy,1434.13
+"Denver, CO","Nashville, TN",1157.66,1003.3,Partly cloudy,1003.3
+"Denver, CO","Salt Lake City, UT",520.71,472.13,Partly cloudy,472.13
+"Denver, CO","New York City, NY",1778.28,1568.77,Sunny,1568.77
+"Denver, CO","Cincinnati, OH",1192.87,1031.13,Sunny,1031.13
+"Denver, CO","Seattle, WA",1316.47,1162.97,Light rain,1279.267
+"Denver, CO","Orlando, FL",1840.88,1593.48,Overcast,1593.48
+"Denver, CO","Washington, DC",1657.84,1475.75,Partly cloudy,1475.75
+"Denver, CO","Detroit, MI",1268.76,1093.43,Sunny,1093.43
+"Denver, CO","Houston, TX",1030.76,909.38,Overcast,909.38
+"Denver, CO","Miami, FL",2065.47,1785.63,Overcast,1785.63
+"Denver, CO","Baltimore, MD",1664.32,1470.33,Cloudy,1470.33
+"Denver, CO","Pittsburgh, PA",1449.22,1257.25,Sunny,1257.25
+"Denver, CO","Las Vegas, NV",748.95,652.33,Sunny,652.33
+"Denver, CO","Chicago, IL",1003.91,861.65,Sunny,861.65
+"Denver, CO","Boston, MA",1971.57,1723.2,Clear,1723.2
+"Denver, CO","Boise, ID",816.0,718.28,Overcast,718.28
+"Denver, CO","Portland, ME",2070.17,1808.1,Clear,1808.1
+"Denver, CO","Portland, OR",1242.49,1099.58,Partly cloudy,1099.58
+"New York City, NY","Harrisburg, PA",169.25,171.05,Partly cloudy,171.05
+"New York City, NY","Nashville, TN",883.98,798.9,Partly cloudy,798.9
+"New York City, NY","Salt Lake City, UT",2173.02,1926.03,Partly cloudy,1926.03
+"New York City, NY","Denver, CO",1779.42,1573.37,Patchy light rain with thunder,1730.707
+"New York City, NY","Cincinnati, OH",637.14,597.3,Sunny,597.3
+"New York City, NY","Seattle, WA",2852.89,2510.62,Light rain,2761.6820000000002
+"New York City, NY","Orlando, FL",1073.18,947.18,Overcast,947.18
+"New York City, NY","Washington, DC",225.95,231.93,Partly cloudy,231.93
+"New York City, NY","Detroit, MI",615.27,569.87,Sunny,569.87
+"New York City, NY","Houston, TX",1626.68,1439.58,Overcast,1439.58
+"New York City, NY","Miami, FL",1283.8,1125.05,Overcast,1125.05
+"New York City, NY","Baltimore, MD",187.43,189.0,Cloudy,189.0
+"New York City, NY","Pittsburgh, PA",369.28,357.25,Sunny,357.25
+"New York City, NY","Las Vegas, NV",2523.33,2210.7,Sunny,2210.7
+"New York City, NY","Chicago, IL",791.17,727.37,Sunny,727.37
+"New York City, NY","Boston, MA",215.28,218.35,Clear,218.35
+"New York City, NY","Boise, ID",2468.31,2172.18,Overcast,2172.18
+"New York City, NY","Portland, ME",313.88,303.25,Clear,303.25
+"New York City, NY","Portland, OR",2894.8,2553.48,Partly cloudy,2553.48
+"Cincinnati, OH","Harrisburg, PA",471.33,435.87,Partly cloudy,435.87
+"Cincinnati, OH","Nashville, TN",272.43,245.43,Partly cloudy,245.43
+"Cincinnati, OH","Salt Lake City, UT",1650.62,1435.75,Partly cloudy,1435.75
+"Cincinnati, OH","Denver, CO",1194.25,1036.97,Patchy light rain with thunder,1140.6670000000001
+"Cincinnati, OH","New York City, NY",639.08,596.3,Sunny,596.3
+"Cincinnati, OH","Seattle, WA",2327.54,2050.3,Light rain,2255.3300000000004
+"Cincinnati, OH","Orlando, FL",898.28,779.75,Overcast,779.75
+"Cincinnati, OH","Washington, DC",500.87,477.48,Partly cloudy,477.48
+"Cincinnati, OH","Detroit, MI",262.5,236.32,Sunny,236.32
+"Cincinnati, OH","Houston, TX",1049.04,947.35,Overcast,947.35
+"Cincinnati, OH","Miami, FL",1122.87,971.88,Overcast,971.88
+"Cincinnati, OH","Baltimore, MD",507.35,472.07,Cloudy,472.07
+"Cincinnati, OH","Pittsburgh, PA",288.21,264.37,Sunny,264.37
+"Cincinnati, OH","Las Vegas, NV",1940.11,1676.42,Sunny,1676.42
+"Cincinnati, OH","Chicago, IL",294.83,269.5,Sunny,269.5
+"Cincinnati, OH","Boston, MA",882.58,781.48,Clear,781.48
+"Cincinnati, OH","Boise, ID",1945.91,1681.88,Overcast,1681.88
+"Cincinnati, OH","Portland, ME",981.18,866.38,Clear,866.38
+"Cincinnati, OH","Portland, OR",2372.4,2063.18,Partly cloudy,2063.18
+"Seattle, WA","Harrisburg, PA",2720.32,2380.02,Partly cloudy,2380.02
+"Seattle, WA","Nashville, TN",2389.19,2098.75,Partly cloudy,2098.75
+"Seattle, WA","Salt Lake City, UT",829.98,740.23,Partly cloudy,740.23
+"Seattle, WA","Denver, CO",1306.88,1164.37,Patchy light rain with thunder,1280.807
+"Seattle, WA","New York City, NY",2852.36,2510.43,Sunny,2510.43
+"Seattle, WA","Cincinnati, OH",2323.88,2042.52,Sunny,2042.52
+"Seattle, WA","Orlando, FL",3072.42,2688.95,Overcast,2688.95
+"Seattle, WA","Washington, DC",2758.63,2427.17,Partly cloudy,2427.17
+"Seattle, WA","Detroit, MI",2344.07,2038.38,Sunny,2038.38
+"Seattle, WA","Houston, TX",2335.23,2062.77,Overcast,2062.77
+"Seattle, WA","Miami, FL",3297.0,2881.1,Overcast,2881.1
+"Seattle, WA","Baltimore, MD",2765.11,2421.75,Cloudy,2421.75
+"Seattle, WA","Pittsburgh, PA",2523.31,2198.93,Sunny,2198.93
+"Seattle, WA","Las Vegas, NV",1114.67,1018.4,Sunny,1018.4
+"Seattle, WA","Chicago, IL",2064.09,1790.62,Sunny,1790.62
+"Seattle, WA","Boston, MA",3045.65,2664.88,Clear,2664.88
+"Seattle, WA","Boise, ID",494.37,459.05,Overcast,459.05
+"Seattle, WA","Portland, ME",3144.25,2749.77,Clear,2749.77
+"Seattle, WA","Portland, OR",173.21,163.43,Partly cloudy,163.43
+"Orlando, FL","Harrisburg, PA",957.09,834.17,Partly cloudy,834.17
+"Orlando, FL","Nashville, TN",687.03,596.22,Partly cloudy,596.22
+"Orlando, FL","Salt Lake City, UT",2314.49,2015.22,Partly cloudy,2015.22
+"Orlando, FL","Denver, CO",1843.07,1592.03,Patchy light rain with thunder,1751.2330000000002
+"Orlando, FL","New York City, NY",1072.11,939.6,Sunny,939.6
+"Orlando, FL","Cincinnati, OH",898.24,774.48,Sunny,774.48
+"Orlando, FL","Seattle, WA",3073.95,2688.38,Light rain,2957.2180000000003
+"Orlando, FL","Washington, DC",845.94,731.43,Partly cloudy,731.43
+"Orlando, FL","Detroit, MI",1159.54,1004.08,Sunny,1004.08
+"Orlando, FL","Houston, TX",962.67,823.03,Overcast,823.03
+"Orlando, FL","Miami, FL",235.08,210.28,Overcast,210.28
+"Orlando, FL","Baltimore, MD",885.84,772.0,Cloudy,772.0
+"Orlando, FL","Pittsburgh, PA",969.01,861.25,Sunny,861.25
+"Orlando, FL","Las Vegas, NV",2303.86,2011.28,Sunny,2011.28
+"Orlando, FL","Chicago, IL",1154.53,1006.7,Sunny,1006.7
+"Orlando, FL","Boston, MA",1285.06,1137.52,Clear,1137.52
+"Orlando, FL","Boise, ID",2609.78,2261.37,Overcast,2261.37
+"Orlando, FL","Portland, ME",1383.66,1222.42,Clear,1222.42
+"Orlando, FL","Portland, OR",3036.27,2642.67,Partly cloudy,2642.67
+"Washington, DC","Harrisburg, PA",117.23,130.78,Partly cloudy,130.78
+"Washington, DC","Nashville, TN",665.58,594.67,Partly cloudy,594.67
+"Washington, DC","Salt Lake City, UT",2078.01,1840.83,Partly cloudy,1840.83
+"Washington, DC","Denver, CO",1659.09,1479.82,Patchy light rain with thunder,1627.8020000000001
+"Washington, DC","New York City, NY",228.23,228.33,Sunny,228.33
+"Washington, DC","Cincinnati, OH",502.07,478.35,Sunny,478.35
+"Washington, DC","Seattle, WA",2757.88,2425.42,Light rain,2667.9620000000004
+"Washington, DC","Orlando, FL",846.21,732.95,Overcast,732.95
+"Washington, DC","Detroit, MI",520.26,484.67,Sunny,484.67
+"Washington, DC","Houston, TX",1408.27,1235.35,Overcast,1235.35
+"Washington, DC","Miami, FL",1056.83,910.82,Overcast,910.82
+"Washington, DC","Baltimore, MD",41.96,60.73,Cloudy,60.73
+"Washington, DC","Pittsburgh, PA",241.54,241.42,Sunny,241.42
+"Washington, DC","Las Vegas, NV",2404.95,2119.28,Sunny,2119.28
+"Washington, DC","Chicago, IL",696.16,642.17,Sunny,642.17
+"Washington, DC","Boston, MA",441.19,426.25,Clear,426.25
+"Washington, DC","Boise, ID",2373.3,2086.98,Overcast,2086.98
+"Washington, DC","Portland, ME",539.79,511.15,Clear,511.15
+"Washington, DC","Portland, OR",2799.79,2468.28,Partly cloudy,2468.28
+"Detroit, MI","Harrisburg, PA",483.91,439.5,Partly cloudy,439.5
+"Detroit, MI","Nashville, TN",535.31,477.05,Partly cloudy,477.05
+"Detroit, MI","Salt Lake City, UT",1664.8,1452.18,Partly cloudy,1452.18
+"Detroit, MI","Denver, CO",1271.2,1099.52,Patchy light rain with thunder,1209.472
+"Detroit, MI","New York City, NY",615.95,569.92,Sunny,569.92
+"Detroit, MI","Cincinnati, OH",264.23,237.58,Sunny,237.58
+"Detroit, MI","Seattle, WA",2345.58,2039.55,Light rain,2243.505
+"Detroit, MI","Orlando, FL",1161.16,1011.38,Overcast,1011.38
+"Detroit, MI","Washington, DC",522.22,486.65,Partly cloudy,486.65
+"Detroit, MI","Houston, TX",1311.92,1178.98,Overcast,1178.98
+"Detroit, MI","Miami, FL",1385.75,1203.52,Overcast,1203.52
+"Detroit, MI","Baltimore, MD",528.7,481.22,Cloudy,481.22
+"Detroit, MI","Pittsburgh, PA",286.89,258.42,Sunny,258.42
+"Detroit, MI","Las Vegas, NV",2015.1,1736.85,Sunny,1736.85
+"Detroit, MI","Chicago, IL",283.86,256.28,Sunny,256.28
+"Detroit, MI","Boston, MA",706.69,647.1,Clear,647.1
+"Detroit, MI","Boise, ID",1960.09,1698.33,Overcast,1698.33
+"Detroit, MI","Portland, ME",805.29,732.0,Clear,732.0
+"Detroit, MI","Portland, OR",2386.57,2079.63,Partly cloudy,2079.63
+"Houston, TX","Harrisburg, PA",1462.34,1278.9,Partly cloudy,1278.9
+"Houston, TX","Nashville, TN",778.82,713.08,Partly cloudy,713.08
+"Houston, TX","Salt Lake City, UT",1476.62,1344.67,Partly cloudy,1344.67
+"Houston, TX","Denver, CO",1027.13,911.38,Patchy light rain with thunder,1002.518
+"Houston, TX","New York City, NY",1628.34,1437.7,Sunny,1437.7
+"Houston, TX","Cincinnati, OH",1047.76,946.88,Sunny,946.88
+"Houston, TX","Seattle, WA",2341.64,2064.07,Light rain,2270.4770000000003
+"Houston, TX","Orlando, FL",962.59,828.53,Overcast,828.53
+"Houston, TX","Washington, DC",1408.38,1236.92,Partly cloudy,1236.92
+"Houston, TX","Detroit, MI",1299.94,1171.8,Sunny,1171.8
+"Houston, TX","Miami, FL",1187.17,1020.68,Overcast,1020.68
+"Houston, TX","Baltimore, MD",1446.02,1270.55,Cloudy,1270.55
+"Houston, TX","Pittsburgh, PA",1335.64,1205.35,Sunny,1205.35
+"Houston, TX","Las Vegas, NV",1456.63,1265.5,Sunny,1265.5
+"Houston, TX","Chicago, IL",1082.83,975.08,Sunny,975.08
+"Houston, TX","Boston, MA",1841.36,1636.38,Clear,1636.38
+"Houston, TX","Boise, ID",1841.17,1619.4,Overcast,1619.4
+"Houston, TX","Portland, ME",1939.96,1721.28,Clear,1721.28
+"Houston, TX","Portland, OR",2267.65,2000.7,Partly cloudy,2000.7
+"Miami, FL","Harrisburg, PA",1169.1,1012.2,Partly cloudy,1012.2
+"Miami, FL","Nashville, TN",912.99,790.7,Partly cloudy,790.7
+"Miami, FL","Salt Lake City, UT",2540.46,2209.7,Partly cloudy,2209.7
+"Miami, FL","Denver, CO",2069.04,1786.52,Patchy light rain with thunder,1965.172
+"Miami, FL","New York City, NY",1284.12,1117.63,Sunny,1117.63
+"Miami, FL","Cincinnati, OH",1124.2,968.97,Sunny,968.97
+"Miami, FL","Seattle, WA",3299.92,2882.87,Light rain,3171.157
+"Miami, FL","Orlando, FL",236.05,207.2,Overcast,207.2
+"Miami, FL","Washington, DC",1057.95,909.47,Partly cloudy,909.47
+"Miami, FL","Detroit, MI",1385.5,1198.57,Sunny,1198.57
+"Miami, FL","Houston, TX",1188.64,1017.52,Overcast,1017.52
+"Miami, FL","Baltimore, MD",1097.85,950.03,Cloudy,950.03
+"Miami, FL","Pittsburgh, PA",1181.02,1039.28,Sunny,1039.28
+"Miami, FL","Las Vegas, NV",2529.83,2205.77,Sunny,2205.77
+"Miami, FL","Chicago, IL",1380.49,1201.18,Sunny,1201.18
+"Miami, FL","Boston, MA",1497.07,1315.55,Clear,1315.55
+"Miami, FL","Boise, ID",2835.75,2455.85,Overcast,2455.85
+"Miami, FL","Portland, ME",1595.67,1400.45,Clear,1400.45
+"Miami, FL","Portland, OR",3262.23,2837.15,Partly cloudy,2837.15
+"Baltimore, MD","Harrisburg, PA",79.14,83.48,Partly cloudy,83.48
+"Baltimore, MD","Nashville, TN",702.81,627.25,Partly cloudy,627.25
+"Baltimore, MD","Salt Lake City, UT",2083.83,1835.95,Partly cloudy,1835.95
+"Baltimore, MD","Denver, CO",1664.9,1474.93,Patchy light rain with thunder,1622.4230000000002
+"Baltimore, MD","New York City, NY",191.51,185.0,Sunny,185.0
+"Baltimore, MD","Cincinnati, OH",507.89,473.47,Sunny,473.47
+"Baltimore, MD","Seattle, WA",2763.69,2420.53,Light rain,2662.5830000000005
+"Baltimore, MD","Orlando, FL",885.56,773.98,Overcast,773.98
+"Baltimore, MD","Washington, DC",38.34,58.73,Partly cloudy,58.73
+"Baltimore, MD","Detroit, MI",526.07,479.78,Sunny,479.78
+"Baltimore, MD","Houston, TX",1445.51,1267.93,Overcast,1267.93
+"Baltimore, MD","Miami, FL",1096.18,951.83,Overcast,951.83
+"Baltimore, MD","Pittsburgh, PA",247.36,236.52,Sunny,236.52
+"Baltimore, MD","Las Vegas, NV",2410.76,2114.38,Sunny,2114.38
+"Baltimore, MD","Chicago, IL",701.97,637.28,Sunny,637.28
+"Baltimore, MD","Boston, MA",404.47,382.92,Clear,382.92
+"Baltimore, MD","Boise, ID",2379.12,2082.1,Overcast,2082.1
+"Baltimore, MD","Portland, ME",503.07,467.82,Clear,467.82
+"Baltimore, MD","Portland, OR",2805.6,2463.4,Partly cloudy,2463.4
+"Pittsburgh, PA","Harrisburg, PA",203.51,195.37,Partly cloudy,195.37
+"Pittsburgh, PA","Nashville, TN",561.39,506.85,Partly cloudy,506.85
+"Pittsburgh, PA","Salt Lake City, UT",1843.09,1614.77,Partly cloudy,1614.77
+"Pittsburgh, PA","Denver, CO",1449.49,1262.1,Patchy light rain with thunder,1388.31
+"Pittsburgh, PA","New York City, NY",371.26,355.8,Sunny,355.8
+"Pittsburgh, PA","Cincinnati, OH",289.02,266.22,Sunny,266.22
+"Pittsburgh, PA","Seattle, WA",2522.96,2199.37,Light rain,2419.3070000000002
+"Pittsburgh, PA","Orlando, FL",969.92,861.72,Overcast,861.72
+"Pittsburgh, PA","Washington, DC",241.82,242.52,Partly cloudy,242.52
+"Pittsburgh, PA","Detroit, MI",285.34,258.6,Sunny,258.6
+"Pittsburgh, PA","Houston, TX",1338.01,1208.78,Overcast,1208.78
+"Pittsburgh, PA","Miami, FL",1180.54,1039.58,Overcast,1039.58
+"Pittsburgh, PA","Baltimore, MD",248.3,237.1,Cloudy,237.1
+"Pittsburgh, PA","Las Vegas, NV",2193.4,1899.43,Sunny,1899.43
+"Pittsburgh, PA","Chicago, IL",461.24,416.1,Sunny,416.1
+"Pittsburgh, PA","Boston, MA",572.43,542.78,Clear,542.78
+"Pittsburgh, PA","Boise, ID",2138.38,1860.92,Overcast,1860.92
+"Pittsburgh, PA","Portland, ME",671.03,627.68,Clear,627.68
+"Pittsburgh, PA","Portland, OR",2564.87,2242.22,Partly cloudy,2242.22
+"Las Vegas, NV","Harrisburg, PA",2374.0,2074.82,Partly cloudy,2074.82
+"Las Vegas, NV","Nashville, TN",1792.67,1539.57,Partly cloudy,1539.57
+"Las Vegas, NV","Salt Lake City, UT",420.68,351.12,Partly cloudy,351.12
+"Las Vegas, NV","Denver, CO",748.21,652.62,Patchy light rain with thunder,717.8820000000001
+"Las Vegas, NV","New York City, NY",2522.06,2207.45,Sunny,2207.45
+"Las Vegas, NV","Cincinnati, OH",1938.57,1671.83,Sunny,1671.83
+"Las Vegas, NV","Seattle, WA",1125.1,1016.22,Light rain,1117.842
+"Las Vegas, NV","Orlando, FL",2306.18,2011.07,Overcast,2011.07
+"Las Vegas, NV","Washington, DC",2403.54,2116.43,Partly cloudy,2116.43
+"Las Vegas, NV","Detroit, MI",2012.54,1732.12,Sunny,1732.12
+"Las Vegas, NV","Houston, TX",1456.29,1258.93,Overcast,1258.93
+"Las Vegas, NV","Miami, FL",2530.77,2203.2,Overcast,2203.2
+"Las Vegas, NV","Baltimore, MD",2410.02,2111.02,Cloudy,2111.02
+"Las Vegas, NV","Pittsburgh, PA",2193.01,1895.93,Sunny,1895.93
+"Las Vegas, NV","Chicago, IL",1747.69,1500.33,Sunny,1500.33
+"Las Vegas, NV","Boston, MA",2715.35,2361.88,Clear,2361.88
+"Las Vegas, NV","Boise, ID",624.63,571.55,Overcast,571.55
+"Las Vegas, NV","Portland, ME",2813.95,2446.78,Clear,2446.78
+"Las Vegas, NV","Portland, OR",970.59,925.43,Partly cloudy,925.43
+"Chicago, IL","Harrisburg, PA",658.48,597.28,Partly cloudy,597.28
+"Chicago, IL","Nashville, TN",470.64,422.95,Partly cloudy,422.95
+"Chicago, IL","Salt Lake City, UT",1397.26,1217.9,Partly cloudy,1217.9
+"Chicago, IL","Denver, CO",1003.66,865.23,Patchy light rain with thunder,951.753
+"Chicago, IL","New York City, NY",790.51,727.72,Sunny,727.72
+"Chicago, IL","Cincinnati, OH",295.44,270.22,Sunny,270.22
+"Chicago, IL","Seattle, WA",2063.6,1790.52,Light rain,1969.5720000000001
+"Chicago, IL","Orlando, FL",1153.87,1013.15,Overcast,1013.15
+"Chicago, IL","Washington, DC",696.79,644.45,Partly cloudy,644.45
+"Chicago, IL","Detroit, MI",282.23,255.67,Sunny,255.67
+"Chicago, IL","Houston, TX",1083.36,974.82,Overcast,974.82
+"Chicago, IL","Miami, FL",1378.45,1205.3,Overcast,1205.3
+"Chicago, IL","Baltimore, MD",703.27,639.02,Cloudy,639.02
+"Chicago, IL","Pittsburgh, PA",461.46,416.2,Sunny,416.2
+"Chicago, IL","Las Vegas, NV",1747.57,1502.57,Sunny,1502.57
+"Chicago, IL","Boston, MA",983.8,882.15,Clear,882.15
+"Chicago, IL","Boise, ID",1692.55,1464.05,Overcast,1464.05
+"Chicago, IL","Portland, ME",1082.4,967.05,Clear,967.05
+"Chicago, IL","Portland, OR",2119.03,1845.35,Partly cloudy,1845.35
+"Boston, MA","Harrisburg, PA",390.45,368.55,Partly cloudy,368.55
+"Boston, MA","Nashville, TN",1105.18,996.4,Partly cloudy,996.4
+"Boston, MA","Salt Lake City, UT",2365.34,2082.38,Partly cloudy,2082.38
+"Boston, MA","Denver, CO",1971.74,1729.72,Patchy light rain with thunder,1902.6920000000002
+"Boston, MA","New York City, NY",215.4,221.67,Sunny,221.67
+"Boston, MA","Cincinnati, OH",882.54,784.97,Sunny,784.97
+"Boston, MA","Seattle, WA",3045.21,2666.97,Light rain,2933.667
+"Boston, MA","Orlando, FL",1286.56,1145.28,Overcast,1145.28
+"Boston, MA","Washington, DC",439.34,430.05,Partly cloudy,430.05
+"Boston, MA","Detroit, MI",706.74,650.77,Sunny,650.77
+"Boston, MA","Houston, TX",1847.88,1637.08,Overcast,1637.08
+"Boston, MA","Miami, FL",1497.18,1323.15,Overcast,1323.15
+"Boston, MA","Baltimore, MD",400.82,387.12,Cloudy,387.12
+"Boston, MA","Pittsburgh, PA",571.96,545.8,Sunny,545.8
+"Boston, MA","Las Vegas, NV",2715.65,2367.05,Sunny,2367.05
+"Boston, MA","Chicago, IL",983.49,883.7,Sunny,883.7
+"Boston, MA","Boise, ID",2660.63,2328.52,Overcast,2328.52
+"Boston, MA","Portland, ME",112.17,105.8,Clear,105.8
+"Boston, MA","Portland, OR",3087.12,2709.82,Partly cloudy,2709.82
+"Boise, ID","Harrisburg, PA",2336.44,2038.77,Partly cloudy,2038.77
+"Boise, ID","Nashville, TN",1924.96,1672.73,Partly cloudy,1672.73
+"Boise, ID","Salt Lake City, UT",339.27,294.32,Partly cloudy,294.32
+"Boise, ID","Denver, CO",816.17,718.45,Patchy light rain with thunder,790.2950000000001
+"Boise, ID","New York City, NY",2468.48,2169.2,Sunny,2169.2
+"Boise, ID","Cincinnati, OH",1928.57,1671.38,Sunny,1671.38
+"Boise, ID","Seattle, WA",504.07,456.87,Light rain,502.5570000000001
+"Boise, ID","Orlando, FL",2608.19,2262.93,Overcast,2262.93
+"Boise, ID","Washington, DC",2374.75,2085.92,Partly cloudy,2085.92
+"Boise, ID","Detroit, MI",1958.96,1693.87,Sunny,1693.87
+"Boise, ID","Houston, TX",1844.53,1616.83,Overcast,1616.83
+"Boise, ID","Miami, FL",2832.77,2455.07,Overcast,2455.07
+"Boise, ID","Baltimore, MD",2381.24,2080.5,Cloudy,2080.5
+"Boise, ID","Pittsburgh, PA",2139.43,1857.68,Sunny,1857.68
+"Boise, ID","Las Vegas, NV",623.96,572.48,Sunny,572.48
+"Boise, ID","Chicago, IL",1694.11,1462.08,Sunny,1462.08
+"Boise, ID","Boston, MA",2661.77,2323.63,Clear,2323.63
+"Boise, ID","Portland, ME",2760.37,2408.53,Clear,2408.53
+"Boise, ID","Portland, OR",430.08,393.5,Partly cloudy,393.5
+"Portland, ME","Harrisburg, PA",489.25,453.72,Partly cloudy,453.72
+"Portland, ME","Nashville, TN",1203.98,1081.57,Partly cloudy,1081.57
+"Portland, ME","Salt Lake City, UT",2464.15,2167.55,Partly cloudy,2167.55
+"Portland, ME","Denver, CO",2070.55,1814.88,Patchy light rain with thunder,1996.3680000000004
+"Portland, ME","New York City, NY",314.2,306.82,Sunny,306.82
+"Portland, ME","Cincinnati, OH",981.34,870.13,Sunny,870.13
+"Portland, ME","Seattle, WA",3144.01,2752.13,Light rain,3027.3430000000003
+"Portland, ME","Orlando, FL",1385.36,1230.45,Overcast,1230.45
+"Portland, ME","Washington, DC",538.14,515.22,Partly cloudy,515.22
+"Portland, ME","Detroit, MI",805.55,735.93,Sunny,735.93
+"Portland, ME","Houston, TX",1946.68,1722.25,Overcast,1722.25
+"Portland, ME","Miami, FL",1595.99,1408.32,Overcast,1408.32
+"Portland, ME","Baltimore, MD",499.62,472.28,Cloudy,472.28
+"Portland, ME","Pittsburgh, PA",670.77,630.97,Sunny,630.97
+"Portland, ME","Las Vegas, NV",2814.45,2452.22,Sunny,2452.22
+"Portland, ME","Chicago, IL",1082.29,968.87,Sunny,968.87
+"Portland, ME","Boston, MA",107.51,106.33,Clear,106.33
+"Portland, ME","Boise, ID",2759.44,2413.68,Overcast,2413.68
+"Portland, ME","Portland, OR",3185.92,2794.98,Partly cloudy,2794.98
+"Portland, OR","Harrisburg, PA",2762.73,2421.3,Partly cloudy,2421.3
+"Portland, OR","Nashville, TN",2351.25,2055.27,Partly cloudy,2055.27
+"Portland, OR","Salt Lake City, UT",765.56,676.83,Partly cloudy,676.83
+"Portland, OR","Denver, CO",1242.46,1100.97,Patchy light rain with thunder,1211.0670000000002
+"Portland, OR","New York City, NY",2894.77,2551.72,Sunny,2551.72
+"Portland, OR","Cincinnati, OH",2354.86,2053.9,Sunny,2053.9
+"Portland, OR","Seattle, WA",172.94,162.88,Light rain,179.168
+"Portland, OR","Orlando, FL",3034.48,2645.47,Overcast,2645.47
+"Portland, OR","Washington, DC",2801.05,2468.45,Partly cloudy,2468.45
+"Portland, OR","Detroit, MI",2385.25,2076.4,Sunny,2076.4
+"Portland, OR","Houston, TX",2270.82,1999.37,Overcast,1999.37
+"Portland, OR","Miami, FL",3259.06,2837.6,Overcast,2837.6
+"Portland, OR","Baltimore, MD",2807.53,2463.03,Cloudy,2463.03
+"Portland, OR","Pittsburgh, PA",2565.72,2240.22,Sunny,2240.22
+"Portland, OR","Las Vegas, NV",969.87,923.97,Sunny,923.97
+"Portland, OR","Chicago, IL",2120.4,1844.62,Sunny,1844.62
+"Portland, OR","Boston, MA",3088.06,2706.17,Clear,2706.17
+"Portland, OR","Boise, ID",429.95,395.65,Overcast,395.65
+"Portland, OR","Portland, ME",3186.66,2791.05,Clear,2791.05
